@@ -6,8 +6,6 @@
 //  Copyright (c) 2013 John Doe. All rights reserved.
 //
 
-// Bogus comment
-
 #import <Cocoa/Cocoa.h>
 
 int main(int argc, const char * argv[])
